@@ -1,38 +1,78 @@
 Privacy Policy
-Introduction
-Our privacy policy will help you understand what information we collect at GST, how GST Client uses it, and what choices you have. Elevado Softwares built the GT Client app as a free app. This SERVICE is provided by GST at no cost and is intended for use as is. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise defined in this Privacy Policy.
+This Privacy Policy document contains types of information that is collected and recorded by Dringo and how we use it.
 
-Information Collection and Use
-For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.
-The app does use third party services that may collect information used to identify you.
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
-Cookies
-Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.
+This Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Dringo. This policy is not applicable to any information collected offline or via channels other than this app.
 
-This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+Table of Contents
+Consent
+Information we collect
+How we use your information
+CCPA Privacy Rights (Do Not Sell My Personal Information)
+GDPR Data Protection Rights
+Children’s Information
+Changes to This Privacy Policy
+Contact Us
+Consent
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
 
-Location Information
-Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.
+Information we collect
+The personal information that you are asked to provide, and the reasons why you are asked to provide it, will be made clear to you at the point we ask you to provide your personal information.
 
-Device Information
-We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.
+If you contact us directly, we may receive additional information about you such as your name, email address, phone number, the contents of the message and/or attachments you may send us, and any other information you may choose to provide.
 
-Service Providers
-We may employ third-party companies and individuals due to the following reasons:
+When you register for an Account, we may ask for your contact information, including items such as name, company name, address, email address, and telephone number.
 
-To facilitate our Service;
-To provide the Service on our behalf;
-To perform Service-related services; or
-To assist us in analyzing how our Service is used.
-We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+How we use your information
+We use the information we collect in various ways, including to:
 
-Security
-We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.
+Provide, operate, and maintain our website
+Improve, personalize, and expand our website
+Understand and analyze how you use our website
+Develop new products, services, features, and functionality
+Communicate with you, either directly or through one of our partners, including for customer service, to provide you with updates and other information relating to the website, and for marketing and promotional purposes
+Send you emails
+For each Particular Services against ,there will be amount. Once you Approve, We will also collect Payment from our side.
 
-Children’s Privacy
-This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+
+CCPA Privacy Rights (Do Not Sell My Personal Information)
+Under the CCPA, among other rights, California consumers have the right to:
+
+Request that a business that collects a consumer’s personal data disclose the categories and specific pieces of personal data that a business has collected about consumers.
+
+Request that a business delete any personal data about the consumer that a business has collected.
+
+Request that a business that sells a consumer’s personal data, not sell the consumer’s personal data.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+
+GDPR Data Protection Rights
+We would like to make sure you are fully aware of all of your data protection rights. Every user is entitled to the following:
+
+The right to access – You have the right to request copies of your personal data. We may charge you a small fee for this service.
+
+The right to rectification – You have the right to request that we correct any information you believe is inaccurate. You also have the right to request that we complete the information you believe is incomplete.
+
+The right to erasure – You have the right to request that we erase your personal data, under certain conditions.
+
+The right to restrict processing – You have the right to request that we restrict the processing of your personal data, under certain conditions.
+
+The right to object to processing – You have the right to object to our processing of your personal data, under certain conditions.
+
+The right to data portability – You have the right to request that we transfer the data that we have collected to another organization, or directly to you, under certain conditions.
+
+If you make a request, we have one month to respond to you. If you would like to exercise any of these rights, please contact us.
+
+Children’s Information
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Dringo does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
 Changes to This Privacy Policy
-We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+We may update our Privacy Policy from time to time. Thus, we advise you to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+
+
+Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us jeskieentertainment@gmail.com.
 
